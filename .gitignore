@@ -1,0 +1,9 @@
+.idea/
+.idea/*
+
+*.py[cod]
+*.pyc
+
+logs/*
+data
+tmp
