@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<course>
+ <id>{1cdd4d3b-a1e9-4a30-a572-286da8270673}</id>
+ <title>English Rejik</title>
+ <description>Words from linux man pages</description>
+ <keyboardLayout>us</keyboardLayout>
+ <lessons>
+  <lesson>
+   <id>{9a92341d-f663-4504-aeaf-f85fb1e35c80}</id>
+   <title>1. M1</title>
+   <newCharacters>dfjk</newCharacters>
+   <text>f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f
+j j j j j j j j j j j j j j j j j j j j j j j j j j j j j j
+d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d
+k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k
+df df df df df df df df df df df df df df df df df df df df
+kkj kkj kkj kkj kkj kkj kkj jkk jkk jkk jkk jkk jjk jjk jjk
+fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd fd
+kdf kfd kfd kdf kdf kdf kdf kdf kdf kdf kdf kdf kdf kdf kdf
+dfjk dfjk dfjk dfjk dfjk dfjk dfjk dfjk dfjk dfjk dfjk dfjk</text>
+  </lesson>
+  <lesson>
+   <id>{fae112ed-2524-44e2-8228-ad93f6bff70e}</id>
+   <title>2. M2</title>
+   <newCharacters>sl</newCharacters>
+   <text>s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s
+l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+sdfjkl sdfjkl sdfjkl sdfjkl sdfjkl sdfjkl sdfjkl sdfjkl
+ls ls ls ls ls ls ls ls ls ls ls ls ls ls ls ls ls ls
+ssd ssd ssd ssd ssd ssd ssd ssd ssd ssd ssd ssd ssd ssd ssd
+jj sdk jj sdk jj sdk jj sdk jj sdk jj sdk jj sdk jj sdk jj
+sks dds sks dds sks dds sks dds sks dds sks dds sks dds sks
+jd dsl jd dsl jd dsl jd dsl jd dsl jd dsl jd dsl jd dsl jd
+jss ddk jss ddk jss ddk jss ddk jss ddk jss ddk jss ddk jss
+kls fls kls fls kls fls kls fls kls fls kls fls kls fls kls
+ldd lld kdf ldd lld kdf ldd lld kdf ldd lld kdf ldd lld kdf
+dlls sdl sf dlls sdl sf dlls sdl sf dlls sdl sf dlls sdl sf
+sk fl lf sk fl lf sk fl lf sk fl lf sk fl lf sk fl lf sk fld</text>
+  </lesson>
+  <lesson>
+   <id>{5aaa0982-0358-4043-8d2e-8b3c2f4321fe}</id>
+   <title>3. M3</title>
+   <newCharacters>a</newCharacters>
+   <text>a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+lala dada lala dada lala dada lala dada lala dada lala dada
+falk dass laas falk dass laas falk dass laas falk dass laas
+add all sdd as sasl jfs add all sdd as sasl jf sadd all sdd
+alsa fas faff alsa fas faff alsa fas faff alsa fas faff alsa
+kd alaska fdd kd alaska fdd kd alaska fdd kd alaska fdd kd
+salad saf afa lslk salad saf afa lslk salad saf afa lslk
+sks fas sj adak kaa jd sks fas sj adak kaa jdsks fas sj adak
+fdd kad alfa lsa ajk sdd fdd kad alfa lsa ajk sdd fdd kad
+ldd jdk sls asa ka ldd jdk sls asa ka ldd jdk sls asa ka ldd
+ls sda aka sas dsa alsa ada ls sda aka sas dsa alsa ada ls
+df sd dll ask fs ls sa ff ll ad ssl dd ld fd add ss all as</text>
+  </lesson>
+  <lesson>
+   <id>{04ef5a1b-f7e9-48ea-81d1-07f11c07b79f}</id>
+   <title>4. M4</title>
+   <newCharacters>gh</newCharacters>
+   <text>h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h
+g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g
+shall flag shall flag shall flag shall flag shall flag shall
+has flash hash has flash hash has flash hash has flash hash
+ssh half had gs ga ssh half had gs ga ssh half had gs ga
+sh hhd slash dash hfs gs dh sh hhd slash dash hfs gs dh ah
+sshd ldflags gdk dag ha hadas sshd ldflags gdk dag ha hadas
+gf shk dg gss aha lg ksh adh gf shk dg gss aha lg ksh adh
+gk dga sga shl ash glass aga gk dga sga shl ash glass aga
+sshfs hdd fflag kg fhs hf hlsl haas kha lah sah sakha
+sdh hashall gda dashdash shh addflags glad lshal galla</text>
+  </lesson>
+  <lesson>
+   <id>{94cca9ce-27d6-437f-983a-77ae81157293}</id>
+   <title>5. T1</title>
+   <newCharacters>ru</newCharacters>
+   <text>r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r
+u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u
+usual full usr args usual full usr args usual full usr args
+arg addr far hard url rsh rar arg addr far hard url rsh rar
+urls rsa sar guard flush lra urls rsa sar guard flush lra
+hdr dual frag arj gsar jar suf hdr dual frag arj gsar jar suf
+urs darl rhs hdrs dark lars ark urs darl rhs hdrs dark lars
+fflush rssh rfs gauss grads fflush rssh rfs gauss grads
+drag rss dur juju dull harsh asr drag rss dur juju dull harsh
+dar gradual fullhd uar rug dar gradual fullhd uar rug
+shar laugh ussd hrd russ shar laugh ussd hrd russ
+sahara ursula guru harald sars raja raflag rds sugar hadar
+gras addrs lukas rdfs lurk afar ruff klaus ras kra gus sara</text>
+  </lesson>
+  <lesson>
+   <id>{a305efdf-72ba-40df-8648-0a1c3ee84cf9}</id>
+   <title>6. T2</title>
+   <newCharacters>ei</newCharacters>
+   <text>e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e
+i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i
+user added users used useful user added users used useful
+see are file fail use like uses see are file fail use like uses
+killed fails read share idle killed fails read share idle
+likes free uefi hughes seeder dir failure false files fish
+shell regardless fed idea shells use red area filled side
+here regarded less reader gui reads hear led diff easier
+header regular field else series harder large feed did
+earlier disk head differs hides fuller fill ref sides rules
+heads desired feeds ahead reuse safe hashed edge shared sse
+aliases issues address fields failures high due fuse lesser
+guess higher degree dashes refused self serial disks useless
+figures refresh guide releases alias uuids lead differ usages
+ideal rule refers fresh uid dirs safer fake del larger gid
+real refuse rise legal areas asked hide risk laser degrees
+release huge edges uris rfile raid uids leak released sigkill
+sed elf fused isa guarded rare radius aside elif raised figure
+ease referred regards addressed flushed fires headless gif href
+regular elffile deferred filler sid fseek duke guides jre</text>
+  </lesson>
+  <lesson>
+   <id>{6dd4fa52-cd68-4e59-b427-60c22314794b}</id>
+   <title>7. T3</title>
+   <newCharacters>wo</newCharacters>
+   <text>w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+who wish should also for roles will allowed was log show
+where error joe look whose word loaded allows folder wheels
+sudo allow followed order how offers goes work shows lower
+hardware works follows dialog reload wiki low words while eol
+few logs walk reflogs hours ago good looks our wide logo
+world looked soa audio rows ordered dos floor forwards wife
+folders slow worked elsewhere likewise firewall wild flow
+showed wireshark fifo guesswork lose awk aware weak wall
+offload worker reloaded flows orders serious shadowed
+wise reorders gold hook loader firewalls wholesale forks
+draw dialogs wills arrowhead hello hardwired workflow okular
+karaoke losses awkward oss radio workhorse offer algol redo
+wake loaders disallowed aloha logfiles seahorse firewire ilog
+gawk disordered redraw goals lsof howard wiser flaw hood ora
+lowers solar flooded soda wolf wireless whois fellow dialogue</text>
+  </lesson>
+  <lesson>
+   <id>{4c172331-a16d-48ec-816a-4ddddf1e6d5e}</id>
+   <title>8. T4</title>
+   <newCharacters>qp</newCharacters>
+   <text>q q q q q q q q q q q q q q q q q q q q q q q q q q q q q q
+p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p
+wrapper pgpass psql apps pip supposed appears upper purpose
+pageup people supplied suppress applied pipe popup papers
+passphrase appeared applies wrappers lpq proper floppies
+perhaps pep sigpipe opposed skipped speedup dropped ipp supp
+proposed purple disappear pops prepared peripheral popular
+shipped wallpaper php pgp qshape pgsqls sqlplus pgroup
+perlfaq qpal pppoe qpel qprd qsquish qpp qpi highpassfreq
+lowpassfreq qpl qpd qpush qpop qqueue perlqq arpreq qps
+pqr equipped qgroup quadruple plpgsql quadrupled qfq qsfp</text>
+  </lesson>
+  <lesson>
+   <id>{3b365da9-6c95-4fb2-9996-891d57fa83da}</id>
+   <title>9. T5</title>
+   <newCharacters>ty</newCharacters>
+   <text>t t t t t t t t t t t t t t t t t t t t t t t t t t t t t t
+y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y
+set default to data output list after path support two git
+they key typedef git your types display http status array
+yes already property utility style apply priority likely
+keys safety query try day delay repository layout history yet
+days year keyword displays reply layer arrays properly tty
+syslog early away really easy daylight why ways keywords
+supply retry parity easily typedefs gray pretty typed tape
+registry relay atoi keystore payload july pty repositories</text>
+  </lesson>
+  <lesson>
+   <id>{09c11537-1ea7-4772-9c95-a592ca7ee8db}</id>
+   <title>10. B1</title>
+   <newCharacters>vn</newCharacters>
+   <text>v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v
+n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n
+version given equivalent event versions negative invalid
+never variant invoked interval native having alternative
+prevent individual whenever overridden relevant saving vendor
+overwritten providing invoke division everything prevents env
+revision invoking vlan sensitive giving advantage variants
+invokes openvpn evaluation vsprintf intervals insensitive
+unprivileged avoiding overriding universal devlink involved
+vprintf netdev alternatives validation eventually invariant</text>
+  </lesson>
+  <lesson>
+   <id>{020b6b89-add7-40e5-b2fb-12d34f10b4c5}</id>
+   <title>11. B2</title>
+   <newCharacters>cm</newCharacters>
+   <text>c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m
+command macro compiler match decimal com macros machine cmake
+compile document commit malloc common column component compare
+dynamic much performance mac numeric comments compressed comma
+custom scheme compares commits dynamically compared icmp cmd
+implicit namespaces checksum memcpy ctime computed localtime
+computer conforming uncompressed chmod systemctl timespec mc
+comparing mismatch imagemagick incomplete emacs decompression
+composite undocumented mechanisms modifications incremental</text>
+  </lesson>
+  <lesson>
+   <id>{cddc6812-be40-42ac-b01c-b8fdf0482271}</id>
+   <title>12. B3</title>
+   <newCharacters>x,</newCharacters>
+   <text>x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+, , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,
+example, xdrs, mmx, linux, exist, context, extensions, avx,
+extension, expression, text, prefix, syntax, index, unix,
+executed, expansion, expressions, exactly, xsavec, suffix,
+expected, exit, aix, next, posix, execution, circumflex, mix,
+texts, exported, hexadecimal, pixels, fix, xsave, expanded,
+fixed, lx, expires, proxy, external, max, prefixes, selinux,
+xsaveopt, exec, maximum, muxer, exposed, exceptfds, xi, regex,
+xfs, xml, matrix, exclude, exp, execute, extra, regexp, axis,
+executing, exited, expat, ux, complex, indexes, postfix, export,
+iprefix, pixel, gettext, unixware, xterm, rx, hex, existing, etx,</text>
+  </lesson>
+  <lesson>
+   <id>{1b2793ec-bbcb-46ca-820a-ed62dc74acd4}</id>
+   <title>13. B4</title>
+   <newCharacters>z.</newCharacters>
+   <text>z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+size. zero. .xz .lzma zeros. maxsize. recognized. optimizer.
+hz. .gz initialized. nonzero. zeroes. .size timezone. zone.
+analyzer. .tar.gz .zip optimize. .tgz xz. foo.zip gnu.cz gzip.
+.gz, zeroed. argz.h .txz zip. .lzma, sizeof. .txz, vectorizer.
+host.xz record.json.gz file.gz our.zone.com letters.zip zones.
+d.txt.lzma foo.tar.xz foo.xz foo.zip lists.lrz .tlz, foo.tar.gz
+hive.pack.gz split.zip .tar.z .taz .diff.gz foo.gz foo.tgz
+.gz. inarchive.zip old.gz outarchive.zip stuff.zip test.zip
+index.gz source.zip timezones. archive.zip. ddmm.taz, foo.xyz
+frozen. orig.tar.gz pigz. .tar.lz, .zoo .zst .zz archive.z</text>
+  </lesson>
+  <lesson>
+   <id>{108728dd-d9d8-444a-bb44-02b1e493ead9}</id>
+   <title>14. B5</title>
+   <newCharacters>b/</newCharacters>
+   <text>b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+library/kernel /lib/systemd/ enable/disable /etc/fstab /bin/sh
+/bin /sbin/iptables /usr/bin mbits/sec c/objc /dev/sdb foo/bar
+debian/rules disable/enable /etc/mtab bits/s. smb/cifs /sbin
+avr/boot.h /lib public/private /usr/share/doc /abort /bin/echo
+/lib/python /usr/lib/systemd/ /usr/local/bin /usr/local/lib/
+yellow/blue gbits/sec /usr/lib /boot/ free/libre header/body
+debug/warning/error /lib/ld present/absent a/b /bin/bash /bar
+big/little /bin/ls /bits/stl /body files/debug gbit/sec ../lib
+input/output/clobbered libc/user lib/subdir prefix/lib/gcc/
+selinux/label.h sub/mov /usr/lib/gcc/ /usr/local/lib/bar xdp/bpf</text>
+  </lesson>
+ </lessons>
+</course>
